@@ -1284,6 +1284,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     vendor.qti.hardware.fm@1.0 \
+    libantradio \
     libgpustats \
     libsdm-disp-vndapis \
     libthermalclient \
